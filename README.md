@@ -17,3 +17,6 @@ So far I've created a single DF withevery player in the history of the league wi
 - weight
 - handedness
 - position
+
+Questions to answer:
+- How has average height, weight, age, nationality changed among NHL players over the years? What are the trends for prospects specifically?
